@@ -20,9 +20,9 @@
 <li>Css</li>
 <li>Bootstrap</li>
 
-### `Deploy`
+### 🌐 `Deploy`
 
-
+https://crud-app-react-reading.netlify.app/
 
 ### 🎥 `Screen`
 
